@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1319/bamm-fraxtal-defi)
+
 # MCP-BAMM: Model Context Protocol Server for Borrow Automated Market Maker
 
 This project implements a Model Context Protocol (MCP) server to interact with Borrow Automated Market Maker (BAMM) contracts on the Fraxtal blockchain. It allows MCP-compatible clients (like AI assistants, IDE extensions, or custom applications) to manage BAMM positions, borrow against LP tokens, and perform other operations related to the BAMM protocol.
